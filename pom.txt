@@ -1,0 +1,16 @@
+ I am working in software company named infosys.
+ my networth salary is 4.5 LPA.
+ so, I used leaved in rent house in bangalore.
+
+       		total monthly salary = 37500
+
+Expences List:
+  
+            House rent Monthly = 8000
+	    maintanance charge = 350
+	    garbage bill       = 50
+	    vegitables         = 300
+	     
+	     total             = 8700
+
+
