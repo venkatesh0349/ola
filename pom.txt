@@ -8,9 +8,10 @@ Expences List:
   
             House rent Monthly = 8000
 	    maintanance charge = 350
-	    garbage bill       = 50
-	    vegitables         = 300
+	    garbage bill       = 400
+	    vegitables         = 350
 	     
-	     total             = 8700
+	     total             = 9100
+
 
 
