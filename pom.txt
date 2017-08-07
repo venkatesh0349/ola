@@ -6,12 +6,12 @@
 
 Expences List:
   
-            House rent Monthly a = 8000
+            House rent Monthly a = 800
 	    maintanance charge b = 350
 	    garbage bill       c = 750
 	    vegitables         d = 400
 	     
-	     total               = 9300
+	     total               = 2300
 
 
 
